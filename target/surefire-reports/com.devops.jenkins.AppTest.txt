@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.devops.jenkins.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.097 sec <<< FAILURE! - in com.devops.jenkins.AppTest
+warning(junit.framework.TestSuite$1)  Time elapsed: 0.041 sec  <<< FAILURE!
+junit.framework.AssertionFailedError: No tests found in com.devops.jenkins.AppTest
+	at junit.framework.TestSuite$1.runTest(TestSuite.java:97)
+
